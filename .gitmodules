@@ -1,0 +1,3 @@
+[submodule "rails-react-chat-backend"]
+	path = rails-react-chat-backend
+	url = git@github.com:jackradian/rails-react-chat-backend.git
